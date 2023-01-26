@@ -22,3 +22,8 @@
 	path = TheMule71/l10n-italy
 	url = git@github.com:TheMule71/l10n-italy.git
 	branch = 16.0-megalomerge
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 16.0
